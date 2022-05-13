@@ -1,0 +1,28 @@
+{
+	"name": "cypress-docker",
+	"version": "1.0.0",
+	"description": "Cypress with Docker",
+	"main": "index.js",
+	"scripts": {
+		"cy:run": "cypress run",
+		"cy:open": "cypress open"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Bergomezz/cypress-docker.git"
+	},
+	"keywords": [
+		"Cypress",
+		"Docker"
+	],
+	"author": "Bernardo",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Bergomezz/cypress-docker/issues"
+	},
+	"homepage": "https://github.com/Bergomezz/cypress-docker#readme",
+	"dependencies": {
+		"cypress": "^9.6.1",
+		"prettier": "^2.6.2"
+	}
+}
