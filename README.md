@@ -1,2 +1,2 @@
 # cypress-docker
-Class to learn to conection with #Cypress and #Docker
+Class to learn how to conect #Cypress and #Docker
